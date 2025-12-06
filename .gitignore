@@ -1,0 +1,5 @@
+node_modules/
+internship-tracker-frontend/node_modules/
+internship-tracker-frontend/dist/
+applications.db
+.env
